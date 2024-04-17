@@ -3,7 +3,7 @@
 </p>
  
 <p align="center">
-<img src="menuoggy" alt="GataBot-MD" width="800"/>
+<img src="oggy.jpg" alt="GataBot-MD" width="800"/>
   
 > Este es el repositorio provisional de oggy mods **[OGGY MODS YT . 😼]()** 
 </p>
