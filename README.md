@@ -1,9 +1,9 @@
 <p align="center"> 
-<a href="https://github.com/GataNina-Li"><img src="menu1" height="90px"></a> 
+<a href=""><img src="menu1" height="90px"></a> 
 </p>
  
 <p align="center">
-<img src="https://i.imgur.com/kd8sus3.jpeg" alt="GataBot-MD" width="800"/>
+<img src="menuoggy" alt="GataBot-MD" width="800"/>
   
 > Este es el repositorio provisional de oggy mods **[OGGY MODS YT . 😼]()** 
 </p>
