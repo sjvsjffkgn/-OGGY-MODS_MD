@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="#"><img title="Oggy-mods" src="https://img.shields.io/badge/SI TE GUSTO EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="oggymd.jpg" height="28px">
+<img src="oggymd.jpeg" height="28px">
 </p>  
 
 <p align="center">
